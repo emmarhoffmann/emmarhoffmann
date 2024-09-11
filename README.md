@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Emma Hoffmann!
 
-I am currently working on <a href="https://github.com/emmarhoffmann/Portfolio" style="color: white; text-decoration: none;">Portfolio</a> and studying at <a href="https://stcloudstate.edu" style="color: white; text-decoration: none;">St. Cloud State University</a>
+I am currently working on <a href="https://github.com/emmarhoffmann/Portfolio" style="color: white; text-decoration: none;">Portfolio</a> and studying Computer Science at <a href="https://stcloudstate.edu" style="color: white; text-decoration: none;">St. Cloud State University</a>
 
 
 
