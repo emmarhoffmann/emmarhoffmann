@@ -1,6 +1,6 @@
 # Hi there <img src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" width="30" height="30">, I'm Emma Hoffmann!
 
-I am currently working on my <a href="https://github.com/emmarhoffmann/Portfolio" style="color: white; text-decoration: none;">Portfolio</a> and studying Computer Science at <a href="https://stcloudstate.edu" style="color: white; text-decoration: none;">St. Cloud State University</a>
+I am currently working on my &nbsp;<img src="https://img.icons8.com/?size=100&id=87836&format=png&color=EBEBEB" width="20" height="15"> [Portfolio](https://github.com/your-portfolio-link) and studying Computer Science at &nbsp;<img src="https://img.icons8.com/?size=100&id=1538&format=png&color=FFFFFF" width="20" height="15"> [St. Cloud State University](https://stcloudstate.edu)
 
 💻 I've been using:  
 
