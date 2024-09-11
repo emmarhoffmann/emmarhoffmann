@@ -1,6 +1,6 @@
 # Hi there <img src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" width="30" height="30">, I'm Emma Hoffmann!
 
-I am currently working on my &nbsp;<img src="https://img.icons8.com/?size=100&id=87836&format=png&color=EBEBEB" width="20" height="17"> [Portfolio](https://github.com/your-portfolio-link) and studying Computer Science at &nbsp;<img src="https://img.icons8.com/?size=100&id=1538&format=png&color=FFFFFF" width="20" height="17"> [St. Cloud State University](https://stcloudstate.edu)
+I am currently working on my &nbsp;<img src="https://img.icons8.com/?size=100&id=87836&format=png&color=EBEBEB" width="20" height="17"> [Portfolio](https://github.com/emmarhoffmann/Portfolio) and studying Computer Science at &nbsp;<img src="https://img.icons8.com/?size=100&id=1538&format=png&color=FFFFFF" width="20" height="17"> [St. Cloud State University](https://stcloudstate.edu)
 
 💻 I've been using:  
 
