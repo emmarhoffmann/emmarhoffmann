@@ -11,6 +11,7 @@ I am currently working on &nbsp;<img src="https://img.icons8.com/?size=100&id=eH
 ![JavaScript](https://img.shields.io/badge/-JavaScript-d3d3d3?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-d3d3d3?style=flat-square&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/-CSS-d3d3d3?style=flat-square&logo=css3&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-d3d3d3?style=flat-square&logo=postgresql&logoColor=black)
 
 🔧 Previously, I've also worked with:  
 
