@@ -1,6 +1,6 @@
 # Hi there <img src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" width="30" height="30">, I'm Emma Hoffmann!
 
-I just completed my live&nbsp;<img src="https://img.icons8.com/?size=100&id=eHkENxsut8hw&format=png&color=D3D3D3" width="20" height="17"> [skinform](https://github.com/emmarhoffmann/skinform) app and my &nbsp;<img src="https://img.icons8.com/?size=100&id=87836&format=png&color=D3D3D3" width="20" height="17"> [portfolio](https://github.com/emmarhoffmann/Portfolio), so feel free to check it out! I am also studying Computer Science at &nbsp;<img src="https://img.icons8.com/?size=100&id=1538&format=png&color=D3D3D3" width="20" height="17"> [St. Cloud State University](https://stcloudstate.edu).
+I'm currently a senior studying Computer Science at &nbsp;<img src="https://img.icons8.com/?size=100&id=1538&format=png&color=D3D3D3" width="20" height="17"> [St. Cloud State University](https://stcloudstate.edu). I just completed my live&nbsp;<img src="https://img.icons8.com/?size=100&id=eHkENxsut8hw&format=png&color=D3D3D3" width="20" height="17"> [skinform](https://github.com/emmarhoffmann/skinform) app and my personal &nbsp;<img src="https://img.icons8.com/?size=100&id=87836&format=png&color=D3D3D3" width="20" height="17"> [portfolio](https://github.com/emmarhoffmann/Portfolio)!
 
 💻 Right now, I am currently using:  
 
